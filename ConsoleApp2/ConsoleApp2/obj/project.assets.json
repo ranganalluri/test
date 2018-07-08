@@ -681,37 +681,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ranga\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\dev\\nuget\\packages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ranga\\Source\\Repos\\test\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\shared\\test\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\Ranga\\Source\\Repos\\test\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-      "packagesPath": "C:\\Users\\Ranga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ranga\\Source\\Repos\\test\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "projectPath": "C:\\shared\\test\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "packagesPath": "C:\\dev\\nuget\\packages",
+      "outputPath": "C:\\shared\\test\\ConsoleApp2\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ranga\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\u1fc117\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://mvnrepo.dev.ibu.geico.net/artifactory/api/nuget/asd-service-nuget-local": {},
+        "https://mvnrepo.dev.ibu.geico.net/artifactory/api/nuget/ibu-service-nuget-local": {},
+        "https://mvnrepo.dev.ibu.geico.net/artifactory/api/nuget/nuget-org": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
